@@ -4,7 +4,7 @@ An iPhone app for iOS 10 that displays the user profile of an user.
 # How to Run, Build and Test
 
 The project can be run using Xcode 8.2 and built/tested using the standard Xcode build (⌘B) and test (⌘U) commands.
-Local weather JSON file is embedded in the test target to run the tests without relying on the network.
+Local user profile JSON files are embedded in the test target to run the tests without relying on the network.
 Summary of implementation details:
 
 - Developed the App using Xcode 8.2 and Swift 3.0.
