@@ -87,7 +87,7 @@ class UserProfileViewController: UIViewController {
         let alert = UIAlertController(title: "Profile photo",
                                       message: "Choose photo from camera or photo library",
                                       preferredStyle: .alert)
-        let photoLibraryAction = UIAlertAction(title: "Photo Lbrary", style: .default) { (action  ) in
+        let photoLibraryAction = UIAlertAction(title: "Photo Library", style: .default) { (action  ) in
             self.showImagePickerOption(for: .photoLibrary)
         }
         let cameraAction = UIAlertAction(title: "Camera", style: .default) { (action  ) in
