@@ -1,5 +1,5 @@
 # UserProfile
-An iPhone app for iOS 10 that displays the user profile of an user.AS the below link is not accessible I followed the reasonable UI desgin of my own.
+An iPhone app for iOS 10 that displays the user profile of an user.As the below link is not accessible, I followed the reasonable UI desgin of my own.
 https://farepilottest.herokuapp.com/
 
 # How to Run, Build and Test
